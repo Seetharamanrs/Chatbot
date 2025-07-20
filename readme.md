@@ -1,7 +1,7 @@
-### Custom Assistant Project
+# Custom Assistant Project
 - This is a simple chatbot application built using Langchain, Ollama LLM, and Streamlit. The bot responds to user queries on a custom topic by leveraging a pre-trained language model.
 
-#### Features
+### Features
 - Interactive chatbot interface using Streamlit.
 - Powered by Ollama’s `gemma3` model.
 - Custom prompt template guiding the assistant’s responses.
