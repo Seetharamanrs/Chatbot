@@ -8,6 +8,15 @@
 - Environment variables used to manage API keys securely.
 - Langchain framework for chaining prompt templates and LLM outputs.
 
+#### Why gemma3 
+- **Runs locally** – No need for cloud or internet. Unlike API-based models, it’s free, fast, and has no latency or cost issues. 
+- **Lightweight and efficient** – Performs well without needing heavy compute, unlike larger models like GPT-4 or LLaMA.
+- **Offline and free** – Works completely offline and doesn’t require paid API access.
+- **No rate limits or vendor lock-in** – You stay in control with zero external dependencies.
+- **Great for simple tasks** – Delivers reliable performance for everyday chatbot use cases.
+
+
+No rate limits or vendor lock-in
 Installation:
 
 Install dependencies:
