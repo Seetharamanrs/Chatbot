@@ -15,8 +15,6 @@
 - **No rate limits or vendor lock-in** – You stay in control with zero external dependencies.
 - **Great for simple tasks** – Delivers reliable performance for everyday chatbot use cases.
 
-
-No rate limits or vendor lock-in
 Installation:
 
 Install dependencies:
